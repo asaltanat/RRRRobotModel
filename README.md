@@ -9,7 +9,7 @@
  
  
  ## RRR Robot model
- ![](./1.png)
+ ![](./1.PNG)
  ## Control joint angles
 ```script
     holdPos= [0 0 0 ];
@@ -17,7 +17,7 @@
     PlanarRob.plot(holdPos);
     PlanarRob.teach();
  ```
- ![](./2.png)
+ ![](./2.PNG)
  ## Add load
  ```script
  PlanarRob.payload(1, [0 0 0]);
