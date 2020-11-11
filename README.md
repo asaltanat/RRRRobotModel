@@ -1,4 +1,4 @@
-# RRRRobotModel
+# RRR Manipulator Model
 
 
 ## Goal:
